@@ -18,3 +18,11 @@ Carpeta 4-11:
   M4 - 07 : librerias
   M4 - 07 : Numpy
   Prophet
+
+Actualización 5-11:  
+Carpeta 5-11:
+  SpaceX - 1 : Data Colletion
+  SpaceX - 2 : EDA
+  SpaceX - 3 : EDA SQL
+  SpaceX - 4 : EDA Data Visualization
+  Prophet
