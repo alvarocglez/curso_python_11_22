@@ -25,4 +25,3 @@ Carpeta 5-11:
   SpaceX - 2 : EDA
   SpaceX - 3 : EDA SQL
   SpaceX - 4 : EDA Data Visualization
-  Prophet
